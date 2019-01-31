@@ -1,0 +1,32 @@
+traceroute to 129.42.56.189 (129.42.56.189), 30 hops max, 60 byte packets
+ 1  ncsa-3003-lr-234net.gw.ncsa.edu (141.142.234.1)  2.149 ms  2.138 ms  2.120 ms
+ 2  vl-110-gw.ncsa.illinois.edu (141.142.3.41)  0.986 ms  0.995 ms  0.974 ms
+ 3  vl-220-gw.ncsa.illinois.edu (141.142.128.81)  0.395 ms  0.386 ms  0.354 ms
+ 4  npcf-exit-east--npcf-core-west.gw.ncsa.edu (141.142.128.17)  0.312 ms vl-201-gw.ncsa.illinois.edu (141.142.128.5)  0.390 ms  0.384 ms
+ 5  iccn-carne100g-internet2.gw.uiuc.edu (72.36.127.181)  0.460 ms  0.434 ms  0.400 ms
+ 6  72.36.126.233 (72.36.126.233)  0.821 ms  0.698 ms t-710rtr.ix.ui-iccn.org (72.36.127.85)  3.008 ms
+ 7  t-710rtr.ix.ui-iccn.org (72.36.127.85)  3.036 ms  3.026 ms 72.36.127.206 (72.36.127.206)  2.945 ms
+ 8  te0-0-1-3.nr11.b002329-6.ord01.atlas.cogentco.com (38.104.99.41)  3.606 ms  3.635 ms  3.642 ms
+ 9  te0-4-0-7.agr21.ord01.atlas.cogentco.com (154.24.35.149)  3.340 ms te0-4-0-7.agr22.ord01.atlas.cogentco.com (154.24.35.153)  3.560 ms te0-4-0-7.agr21.ord01.atlas.cogentco.com (154.24.35.149)  3.477 ms
+10  be2522.ccr42.ord01.atlas.cogentco.com (154.54.81.61)  3.447 ms te0-4-0-7.agr22.ord01.atlas.cogentco.com (154.24.35.153)  3.645 ms be2522.ccr42.ord01.atlas.cogentco.com (154.54.81.61)  3.633 ms
+11  be2765.ccr41.ord03.atlas.cogentco.com (154.54.45.18)  4.281 ms be2766.ccr41.ord03.atlas.cogentco.com (154.54.46.178)  3.532 ms  3.582 ms
+12  be2766.ccr41.ord03.atlas.cogentco.com (154.54.46.178)  3.605 ms level3.ord03.atlas.cogentco.com (154.54.12.82)  11.023 ms be2766.ccr41.ord03.atlas.cogentco.com (154.54.46.178)  3.622 ms
+13  ae-9-9.car2.Raleigh1.Level3.net (4.69.132.177)  58.358 ms level3.ord03.atlas.cogentco.com (154.54.12.82)  11.295 ms ae-9-9.car2.Raleigh1.Level3.net (4.69.132.177)  58.371 ms
+14  ATT-CORPORA.car2.Raleigh1.Level3.net (4.71.162.50)  144.552 ms  144.567 ms  144.583 ms
+15  * ATT-CORPORA.car2.Raleigh1.Level3.net (4.71.162.50)  144.548 ms *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+

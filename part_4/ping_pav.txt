@@ -1,0 +1,11 @@
+PING pavlovmedia.com (66.209.200.43) 56(84) bytes of data.
+64 bytes from pavlovmedia.com (66.209.200.43): icmp_seq=1 ttl=128 time=25.3 ms
+64 bytes from pavlovmedia.com (66.209.200.43): icmp_seq=2 ttl=128 time=23.8 ms
+64 bytes from pavlovmedia.com (66.209.200.43): icmp_seq=3 ttl=128 time=22.4 ms
+64 bytes from pavlovmedia.com (66.209.200.43): icmp_seq=4 ttl=128 time=20.6 ms
+.
+.
+.
+--- pavlovmedia.com ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99414ms
+rtt min/avg/max/mdev = 19.824/21.785/32.125/1.899 ms
